@@ -80,7 +80,7 @@ TARGET_KERNEL_CONFIG := lineage_oneplus5_defconfig
 TARGET_KERNEL_CLANG_COMPILE := true
 
 # Sepolicy
-#BOARD_KERNEL_CMDLINE += androidboot.selinux=permissive
+BOARD_KERNEL_CMDLINE += androidboot.selinux=permissive
 
 # QCOM hardware
 BOARD_USES_QCOM_HARDWARE := true
