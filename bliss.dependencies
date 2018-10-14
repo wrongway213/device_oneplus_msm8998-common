@@ -1,9 +1,5 @@
 [
   {
-    "repository": "android_device_oppo_common",
-    "target_path": "device/oppo/common"
-  },
-  {
     "repository": "KriegKernel/OP5-T",
     "target_path": "kernel/oneplus/msm8998",
     "revision":    "pie-treble"
